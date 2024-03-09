@@ -50,10 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jsabahu/jsabahu/output/snake.svg" alt="Snake animation" />
-
-###
-
 <!--
 **jsabahu/jsabahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
